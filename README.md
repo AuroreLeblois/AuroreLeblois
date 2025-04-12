@@ -61,7 +61,7 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 
   ![Badge WebApp](https://img.shields.io/badge/-WebApp-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## Mes contributions
+## Mes contributions (publiques)
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
