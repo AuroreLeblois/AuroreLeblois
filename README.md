@@ -87,19 +87,3 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 </div>
 
 _Note: Ces statistiques ne prennent pas tous en compte mes dépôts privés._
-
-<!-- ## Statistiques GitHub -->
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AuroreLeblois&theme=radical) -->
-
-<!-- ![Trophées](https://github-profile-trophy.vercel.app/?username=AuroreLeblois&theme=radical) -->
-
-<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AuroreLeblois&theme=redical) -->
-
-<!-- ![Metrics](https://github-readme-stats-sigma-five.vercel.app/api?username=AuroreLeblois&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
-
-<!-- ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AuroreLeblois&show_icons=true&theme=radical&count_private=true) -->
-
-<!-- ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroreLeblois&layout=compact&theme=radical&count_private=true) -->
-
-<!-- _Note: Ces statistiques ne prennent pas tous en compte mes dépôts privés._ -->
