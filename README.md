@@ -59,6 +59,10 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-8892BE?style=flat-square&logo=php&logoColor=white)
 ![Firebase Test Lab](https://img.shields.io/badge/-Firebase_Test_Lab-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
+### CI
+
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-FFCA28?style=flat-square&logo=GitHubActions&logoColor=white)
+
 ## Mes projets
 
 ### **[Kared Fit](https://www.linkedin.com/company/kared-dev)** - Application de planification de routines sportives.
