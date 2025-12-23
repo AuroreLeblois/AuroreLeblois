@@ -87,7 +87,7 @@ Gagnez de l'expérience et des récompenses après chaque entraînement.
 
 <br>
 
-### **[React-Kariu](https://master--6622bfba82614764e0013a14.chromatic.com)** - Design System.
+### **[React-Kariu](https://auroreleblois.github.io/react-kariu/)** - Design System.
 
 <br>
 
