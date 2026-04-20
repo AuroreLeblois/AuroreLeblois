@@ -31,6 +31,7 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/-Chromatic-000000?style=flat-square&logo=chromatic&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF7F7F?style=flat-square)
 
 ### Backend
 
@@ -65,6 +66,19 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-FFCA28?style=flat-square&logo=GitHubActions&logoColor=white)
 
 ## Mes projets
+
+### **A/NORMAL** - Jeu narratif en cours de développement avec Ren'Py.
+
+A/NORMAL est un jeu narratif en développement, avec une API en NestJS pour récupérer les données des choix des joueurs.
+
+<br>
+
+![Ren'Py](https://img.shields.io/badge/-Ren'Py-FF7F7F?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+<br>
 
 ### **[Kared Fit](https://www.linkedin.com/company/kared-dev)** - Application de planification de routines sportives.
 
