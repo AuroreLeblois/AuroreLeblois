@@ -40,6 +40,7 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### Gestion des données
 
@@ -104,7 +105,7 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 
 ## Mes projets
 
-### **A/NORMAL** - Jeu narratif en cours de développement avec Ren'Py.
+### **A/NORMAL** - Jeu narratif en cours de développement.
 
 A/NORMAL est un jeu narratif en développement, avec une API en NestJS pour récupérer les données des choix des joueurs.
 
