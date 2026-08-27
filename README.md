@@ -4,7 +4,7 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 
 ## À propos de moi
 
-👨‍💻 Je suis actuellement développeuse logiciel avec plus de 5 ans d'expérience dans le développement d'applications web et mobile.
+👨‍💻 Je suis actuellement développeuse logiciel fullstack avec plus de 6 ans d'expérience dans le développement d'applications web et mobile.
 
 🔭 Je travaille actuellement sur plusieurs projets (voir ci-dessous)
 
@@ -64,6 +64,43 @@ Passionnée par l’informatique, je suis toujours à la recherche de nouveaux d
 ### CI
 
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-FFCA28?style=flat-square&logo=GitHubActions&logoColor=white)
+
+### IA
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+
+- 🤖 **Développement assisté par IA** : utilisation quotidienne de Claude Code dans mon workflow (pair programming, revue de code, refactoring)
+- 🔌 **Intégration d'API LLM** : intégration de modèles de langage (API Claude) dans des applications
+- ✍️ **Prompt engineering** : conception de prompts, d'agents et d'automatisations (MCP, skills)
+- 📚 **RAG / embeddings** : recherche augmentée par récupération, bases vectorielles et embeddings
+
+### Outils
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/-GitHub_Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/-App_Store_Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/-Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 ## Mes projets
 
