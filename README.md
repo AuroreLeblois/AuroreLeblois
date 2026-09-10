@@ -1,6 +1,8 @@
 # Bonjour, je suis Aurore 👋
 
-Passionnée par l’informatique, je suis toujours à la recherche de nouveaux défis.
+Passionnée par l’informatique, je suis toujours à la recherche de nouveaux défis. 
+
+[![Portfolio](https://img.shields.io/badge/-🌟_Portfolio-1b7a3e?style=for-the-badge)](https://kared-dev.fr/aurore)
 
 ## À propos de moi
 
