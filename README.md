@@ -199,23 +199,18 @@ Comète On Time est un module de pointage géolocalisé. Il permet aux agents de
 
 ## Mes contributions (publiques)
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="width: 50%; padding: 0 8px 0 0; margin: 0; border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuroreLeblois&theme=radical" alt="GitHub Streak" width="100%" />
-    </td>
-    <td style="width: 50%; padding: 0 0 0 8px; margin: 0; border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AuroreLeblois&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Metrics" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=AuroreLeblois&theme=radical" alt="GitHub Streak" width="50%" />
 
 <div style="margin-top: 16px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuroreLeblois&theme=redical" alt="Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuroreLeblois/AuroreLeblois/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuroreLeblois/AuroreLeblois/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AuroreLeblois/AuroreLeblois/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 <div style="margin-top: 16px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=AuroreLeblois&theme=radical&row=1" alt="Trophées" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=AuroreLeblois&theme=radical&row=1" alt="Trophées" width="100%" />
 </div>
 
 <div style="margin-top: 16px;">
